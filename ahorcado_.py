@@ -1,4 +1,4 @@
-import pygame
+import pygame  #Se debe instalar utilizando "pip install pygame"
 import random
 import sys
 
